@@ -5,6 +5,8 @@ Android application made for Introduction to Software Engineering project (Devel
 
 Made using Java, XML, and Firebase. Developed using Agile methodology
 
+Note: Does not run as API/Firebase keys have been removed from repo or have expired
+
 #### Worked on:
 - User Authentication
 - Getting phone location with GPS
